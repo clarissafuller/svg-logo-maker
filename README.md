@@ -2,9 +2,9 @@
 
 [![license badge](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
+## As a freelance web developer, logos can get pricy when asking a graphic designer to design them for you constantly. It would be much easier to generate them through a command line application that allowed them to be customizable and easy to make!
 
-The challenge for this homework was to build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG fileLinks to an external site.. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
+The challenge for this homework was to build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file linked to an external site. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
 
 ## Table of Contents
 
@@ -21,12 +21,13 @@ In order to use this application, you will simply have to locally deploy the app
 
 ## Usage/Tests
 
-Navigating the website is simple, in order to create a post, click the "create post" button.
-Fill out all the editable fields and post!
-The pages should look something like this:
+Navigating the commands is simple! Just run npm start in your terminal, follow the prompts, and generate your logo
 
-![fcew](https://github.com/clarissafuller/MVC-tech-blog/assets/141360959/078cf4aa-6115-4a2a-aa88-f055def12cd9)
-![frfrefwr](https://github.com/clarissafuller/MVC-tech-blog/assets/141360959/26d49886-20c9-4743-b29c-55ce728e77d0)
+The results should look something like this:
+![xsadc](https://github.com/clarissafuller/svg-logo-maker/assets/141360959/0a5d45b6-78b2-4bf6-a3e1-c58ff6ff519b)
+![few](https://github.com/clarissafuller/svg-logo-maker/assets/141360959/650bcfbf-ae57-4680-909d-00bf20a89a93)
+
+
 
 
 
@@ -48,7 +49,7 @@ Tutorials followed include Columbia University Coding Bootcamp 2023, as well as:
 
 ## Questions
 
-Reach out to us if you have any questions!
+Reach out to me if you have any questions!
 
 - Email: clarissafuller5@gmail.com
 
@@ -58,5 +59,5 @@ Reach out to us if you have any questions!
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
