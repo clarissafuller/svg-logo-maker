@@ -24,7 +24,9 @@ In order to use this application, you will simply have to locally deploy the app
 Navigating the commands is simple! Just run npm start in your terminal, follow the prompts, and generate your logo
 
 The results should look something like this:
+
 ![xsadc](https://github.com/clarissafuller/svg-logo-maker/assets/141360959/0a5d45b6-78b2-4bf6-a3e1-c58ff6ff519b)
+
 ![few](https://github.com/clarissafuller/svg-logo-maker/assets/141360959/650bcfbf-ae57-4680-909d-00bf20a89a93)
 
 
