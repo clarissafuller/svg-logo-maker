@@ -29,6 +29,7 @@ The results should look something like this:
 
 ![few](https://github.com/clarissafuller/svg-logo-maker/assets/141360959/650bcfbf-ae57-4680-909d-00bf20a89a93)
 
+Video instructions can also be found [here](https://drive.google.com/file/d/1djcXDaDM0DZt7Nf3LjiIvuLyJuzGnKom/view?usp=share_link)
 
 
 
